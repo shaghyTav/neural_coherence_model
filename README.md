@@ -13,7 +13,7 @@ Also don't forget to give it a Github star (on top right).
 
 ### Procedure ###
 * Prepare data
-* Run main_making.py
+* Run main_masking.py
 
 ### Data ###
 
